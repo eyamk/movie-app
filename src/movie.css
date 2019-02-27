@@ -1,0 +1,43 @@
+.search{
+ display: flex;
+  justify-content: center;
+  
+  margin-top: 50px;
+  margin-bottom:50px; 
+  padding-bottom: -100px;
+  
+}
+
+.myinput{
+  border: 1px solid black;
+  width:200px;
+}
+.espace{
+  padding: 80px; 
+  background-color:rgb(27, 25, 25);
+  color:white;
+}
+.mdbcard{
+  margin-top:50px
+}
+button{
+  width:200px;
+}
+.title{
+  text-align:center; 
+}
+input{
+  border:2px solid black;
+  width:270px; 
+  height:30px ;
+}
+.star{
+  display: flex;
+   justify-content: center;
+   
+   margin-top: 50px;
+   margin-bottom:50px;
+   margin-left:100px; 
+   padding-bottom: -100px;
+   
+ }

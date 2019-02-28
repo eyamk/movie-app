@@ -3,7 +3,7 @@ import { Container, Row, Col } from 'react-grid-system'
 import './movie.css'
 
 
-class Search extends Component {
+class MovieSearch  extends Component {
     constructor(props) {
         super(props);
         this.state = { 
@@ -24,6 +24,6 @@ handelchange=(event)=>{
         )
     }
 }
-export default Search 
+export default MovieSearch 
 
 
